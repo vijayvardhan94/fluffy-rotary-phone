@@ -18,3 +18,6 @@ def exponent(a, b):
 
 def round_nearest(a, b):
     return round(a, b)
+
+def stringify(a, b):
+    return str(a) + str(b)
