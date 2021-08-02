@@ -15,3 +15,6 @@ def divide2(a, b):
 
 def exponent(a, b):
     return a ** b
+
+def round_nearest(a, b):
+    return round(a, b)
